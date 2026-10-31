@@ -1,0 +1,345 @@
+{
+  "_notes": "Single source of truth for personal content. Rebuild with: python3 tools/personalize.py. Empty url => row/link omitted (never guessed). Project 'image': path under public/ (e.g. /projects/foo.png); empty or missing file => /projects/placeholder.svg.",
+  "name": "Shreyash Amrutkar",
+  "initials": "SA",
+  "headline": "Software Developer",
+  "city": "Nashik",
+  "location": "Nashik, India",
+  "timezone": "India (GMT+5:30)",
+  "coords": "20.00°N 73.79°E",
+  "status": "Open to new roles",
+  "title": "Shreyash Amrutkar — Software Developer",
+  "metaDescription": "Software Developer in Nashik, India. I build full-stack web applications and REST APIs with C#, ASP.NET Core, SQL Server and ReactJS.",
+  "keywords": "Software Developer,C#,ASP.NET Core,ReactJS,SQL Server,Web API,Nashik",
+  "heroLines": [
+    "I build full-stack",
+    "apps that <em>work.</em>"
+  ],
+  "heroIntro": "Responsive web applications and RESTful APIs with C#, ASP.NET Core and ReactJS, backed by well-tuned SQL Server databases.",
+  "stats": [
+    [
+      "2 yrs",
+      "Professional experience"
+    ],
+    [
+      "3",
+      "Companies"
+    ],
+    [
+      "3",
+      "Projects shipped"
+    ],
+    [
+      "UGC NET",
+      "Qualified · Dec 2024"
+    ]
+  ],
+  "aboutLead": "I'm a Software Developer in Nashik, building dynamic, responsive web applications.",
+  "aboutParagraphs": [
+    "I have 2 years of experience with C#, ASP.NET Core, ASP.NET MVC, ASP.NET Web Forms and ReactJS, building RESTful Web APIs and optimizing SQL Server databases.",
+    "I work with Entity Framework, LINQ and Dependency Injection on the backend and modern frontend frameworks on the client, to deliver robust full-stack solutions."
+  ],
+  "facts": [
+    [
+      "Location",
+      "Nashik, Maharashtra, India"
+    ],
+    [
+      "Education",
+      "MCA — IMCC College, Pune (2022 – 2024), 7.72 CGPA"
+    ],
+    [
+      "Also",
+      "B.Sc. Computer Science — K.T.H.M. College, Nashik (2019 – 2022), 8.34 CGPA"
+    ],
+    [
+      "Credentials",
+      "UGC NET qualified — Assistant Professor (Dec 2024)"
+    ],
+    [
+      "Achievement",
+      "Round 2, Flipkart GRID National Hackathon"
+    ],
+    [
+      "Languages",
+      "English, Marathi, Hindi"
+    ]
+  ],
+  "whatIDo": [
+    [
+      "Full-stack web applications",
+      "ASP.NET Core, MVC and Web Forms backends with component-driven ReactJS frontends, including hospital management workflows."
+    ],
+    [
+      "RESTful APIs & services",
+      "Asynchronous Web APIs with Dependency Injection, plus WCF and Windows services for core business logic."
+    ],
+    [
+      "SQL Server & data",
+      "Stored procedures, LINQ and ADO.NET queries tuned to improve execution performance and reduce data latency."
+    ],
+    [
+      "Validation & reporting",
+      "Client/server validation pipelines, PDF/Excel invoices and quotations, and interactive reporting dashboards."
+    ]
+  ],
+  "skillsHeading": "Tools I ship with",
+  "skills": [
+    [
+      "Backend",
+      [
+        [
+          "C#",
+          1
+        ],
+        [
+          "ASP.NET Core Web API",
+          1
+        ],
+        [
+          "ASP.NET MVC",
+          1
+        ],
+        [
+          "ASP.NET Web Forms",
+          0
+        ],
+        [
+          ".NET Core",
+          0
+        ],
+        [
+          "ADO.NET",
+          0
+        ],
+        [
+          "Entity Framework",
+          1
+        ],
+        [
+          "LINQ",
+          1
+        ],
+        [
+          "Dependency Injection",
+          0
+        ],
+        [
+          "Async/Await",
+          0
+        ],
+        [
+          "WCF",
+          0
+        ],
+        [
+          "ExpressJS",
+          0
+        ],
+        [
+          "NodeJS",
+          0
+        ],
+        [
+          "Java",
+          0
+        ]
+      ]
+    ],
+    [
+      "Frontend",
+      [
+        [
+          "ReactJS",
+          1
+        ],
+        [
+          "JavaScript",
+          1
+        ],
+        [
+          "TypeScript",
+          1
+        ],
+        [
+          "Tailwind CSS",
+          1
+        ],
+        [
+          "Bootstrap",
+          0
+        ],
+        [
+          "AJAX",
+          0
+        ],
+        [
+          "WPF",
+          0
+        ],
+        [
+          "Windows Application",
+          0
+        ]
+      ]
+    ],
+    [
+      "Databases",
+      [
+        [
+          "SQL Server",
+          1
+        ],
+        [
+          "MongoDB",
+          1
+        ],
+        [
+          "MySQL",
+          1
+        ]
+      ]
+    ],
+    [
+      "Tools, CI/CD & Platforms",
+      [
+        [
+          "Git",
+          1
+        ],
+        [
+          "GitHub",
+          0
+        ],
+        [
+          "Azure DevOps",
+          1
+        ],
+        [
+          "GitHub Actions",
+          1
+        ],
+        [
+          "SonarQube",
+          1
+        ],
+        [
+          "Visual Studio",
+          0
+        ],
+        [
+          "SSMS",
+          0
+        ],
+        [
+          "Swagger",
+          0
+        ],
+        [
+          "Postman",
+          0
+        ],
+        [
+          "VS Code",
+          0
+        ],
+        [
+          "XAMPP",
+          0
+        ]
+      ]
+    ]
+  ],
+  "experienceHeading": "Where I've worked",
+  "experience": [
+    {
+      "dates": "Jul 2025 — Aug 2026",
+      "place": "India",
+      "role": "Software Developer",
+      "org": "Tracelogix Pvt. Ltd.",
+      "bullets": [
+        "**Developed full-stack hospital management modules** using ASP.NET Core, C# and ReactJS, delivering responsive component-driven UIs for complex healthcare workflows.",
+        "**Designed and optimized SQL Server stored procedures and LINQ queries**, improving execution performance and reducing data latency.",
+        "**Built asynchronous RESTful APIs** using ASP.NET Web API with Dependency Injection to enable seamless integration with Aras PLM systems.",
+        "**Implemented client/server validation pipelines** using Data Annotations and custom business rules."
+      ]
+    },
+    {
+      "dates": "Oct 2024 — Jul 2025",
+      "place": "India",
+      "role": "Software Developer",
+      "org": "Cellica Software Pvt. Ltd.",
+      "bullets": [
+        "**Engineered enterprise web applications and RESTful APIs** using ASP.NET MVC, Web Forms and C# to streamline data processing and user workflows.",
+        "**Built and integrated WCF web services and Windows desktop services** to process core business logic and transaction data.",
+        "**Optimized application performance and user interfaces** across multi-tier client-server environments."
+      ]
+    },
+    {
+      "dates": "Jul 2024 — Sep 2024",
+      "place": "India",
+      "role": "React Developer Intern",
+      "org": "Techflux Solutions",
+      "bullets": [
+        "**Developed RESTful APIs** using Express.js integrated with MySQL databases running on XAMPP.",
+        "**Designed dynamic ReactJS user interfaces** styled with Bootstrap and Tailwind CSS, maintaining full cross-device responsiveness.",
+        "**Integrated front-end components with back-end APIs** using Axios for stateful, real-time asynchronous updates.",
+        "**Architected Node.js and Express.js backend services** with custom middleware for routing, error handling and ReactJS integration."
+      ]
+    }
+  ],
+  "projectsHeading": "Built, tested, shipped",
+  "projects": [
+    {
+      "accent": "coral",
+      "year": "",
+      "tag": "Healthcare · Tracelogix",
+      "name": "Diagnotrace",
+      "subtitle": "Healthcare management platform",
+      "description": "Healthcare management functionality covering doctors, patients, hospitals/centers, appointments, tests and medical modalities, with RESTful APIs on ASP.NET Core Web API integrated into ReactJS modules. Includes role-based administration, user management and permission-driven dynamic menus, plus OCR-based healthcare data extraction using Tesseract, FellowOakDicom and OpenCvSharp4.",
+      "metric": "",
+      "stack": "ASP.NET Core Web API / ASP.NET MVC / C# / ReactJS / SQL Server / ADO.NET / Tesseract OCR",
+      "live": "",
+      "code": "",
+      "image": ""
+    },
+    {
+      "accent": "amber",
+      "year": "",
+      "tag": "Dealer management · Cellica",
+      "name": "Dealer Buddy",
+      "subtitle": "Dealer management application",
+      "description": "Dealer management functionality covering products, orders, bookings, accounts and shopping cart, with REST APIs for order and cart operations integrated into application workflows. Generates invoices and quotations in PDF and Excel, and includes Windows-based application functionality with accounting integration with Tally.",
+      "metric": "",
+      "stack": "ASP.NET Web Forms / ASP.NET MVC / ASP.NET Web API / C# / SQL Server / ADO.NET / WCF",
+      "live": "",
+      "code": "",
+      "image": ""
+    },
+    {
+      "accent": "lime",
+      "year": "",
+      "tag": "Sales processing · Cellica",
+      "name": "Patil Biotech",
+      "subtitle": "Dealer management and sales processing",
+      "description": "Dealer management and sales processing modules covering order lifecycles, stock transfers and payment collections, with interactive reporting dashboards for monitoring ledger statements, collection statistics and operational expenses.",
+      "metric": "",
+      "stack": "ASP.NET MVC / ASP.NET Web API / C# / SQL Server / ADO.NET",
+      "live": "",
+      "code": "",
+      "image": ""
+    }
+  ],
+  "contactHeading": "Have something worth building?",
+  "contactIntro": "Tell me about the product, the problem, or the role — email works best.",
+  "email": "shreyashamrutkar138@gmail.com",
+  "phone": "+91 9075169450",
+  "phoneDisplay": "+91 90751 69450",
+  "linkedin": "",
+  "github": "",
+  "resumeFile": "Shreyash_Amrutkar_Resume.pdf",
+  "contactNote": "Open to software development roles.",
+  "publication": "",
+  "siteUrl": "https://example.com",
+  "photo": "profile-placeholder.svg"
+}
